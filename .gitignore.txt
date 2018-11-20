@@ -3,4 +3,4 @@ expo/expo.componentinfo.xml
 expo/Debug/expo.map
 expo/Debug/expo.obj
 expo/Debug/expo.tmp
-.vs/
+.vs
