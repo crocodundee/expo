@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>D:\AVR\expo\expo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.147\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVR\expo\expo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.147\avrasm\inc\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVR\expo\expo\Debug\expo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>expo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>expo.map</FILE>
+  <FILE>expo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Digit><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>49</LINE></Digit>
+  <Init><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>59</LINE></Init>
+  <Control><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>154</LINE></Control>
+  <Timer><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>209</LINE></Timer>
+  <Display><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>99</LINE></Display>
+  <HelloUser><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>300</LINE></HelloUser>
+  <Main><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>87</LINE></Main>
+  <DynInd><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>111</LINE></DynInd>
+  <SetSeg1><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>119</LINE></SetSeg1>
+  <End><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>145</LINE></End>
+  <SetSeg0><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>132</LINE></SetSeg0>
+  <ClrDp><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>129</LINE></ClrDp>
+  <SetSeg3><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>140</LINE></SetSeg3>
+  <StartTimer><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>181</LINE></StartTimer>
+  <Config><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>166</LINE></Config>
+  <WaitUp><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>199</LINE></WaitUp>
+  <SetMin><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>172</LINE></SetMin>
+  <EndControl><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>193</LINE></EndControl>
+  <GetMinutes><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>246</LINE></GetMinutes>
+  <DispSec><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>195</LINE></DispSec>
+  <GetSeconds><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>267</LINE></GetSeconds>
+  <DecMin><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>220</LINE></DecMin>
+  <StopTimer><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>229</LINE></StopTimer>
+  <DevideNumber><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>283</LINE></DevideNumber>
+  <ReadEEPROM><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>318</LINE></ReadEEPROM>
+  <ReadDig3><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>255</LINE></ReadDig3>
+  <Devide><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>286</LINE></Devide>
+  <Stop><FILE>D:\AVR\expo\expo\main.asm</FILE><LINE>292</LINE></Stop>
+ </LABELS>
+</ASSEMBLER_INFO>
